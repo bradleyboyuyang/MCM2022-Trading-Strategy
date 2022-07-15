@@ -1,11 +1,8 @@
 ## 2022 MCM (Problem C): Trading Strategy Design for Bitcoin and Gold
 
-### **Awards**
-Meritorious Winner Award
-
 ### **Highlights**
 - Used traditional technical analysis, GFTD timing signal and rotation strategy to design basic trading strategies <br>
-- Proposed dynamic fusion method from portfolio management science to optimize the weight allocation <br>
+- Proposed dynamic fusion method from portfolio optimization to optimize the weight allocation <br>
 - Performed robustness checking and sensitivity analysis towards transaction costs <br>
 
 ### **Results Overview**
