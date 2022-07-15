@@ -6,23 +6,23 @@
 - Performed robustness checking and sensitivity analysis towards transaction costs <br>
 
 ### **Results Overview**
-- Rotation strategy:
+- Rotation strategy
 
   <img src="./images/rotation.png" width="700">
 
-- GFTD signal hyperparameter grid search (bitcoin only) with RoMaD metric:
+- GFTD signal hyperparameter grid search (bitcoin only) with RoMaD metric
 
   <img src="./images/gftd_heat_bitcoin.png" width="600">
 
-- Dynamic strategy fusion pipline:
+- Dynamic strategy fusion pipline
 
   <img src="./figures/fusion.png" width="700">
 
-- Proportion of individual strategy in the fused version:
+- Proportion of individual strategy in the fused version
 
   <img src="./figures/scale-component-ready.png" width="700">
 
-- Cumulative return of investors with different levels of risk preferences:
+- Cumulative return of investors with different levels of risk preferences
 
   <img src="./figures/gamma.png" width="700">
 
